@@ -10,10 +10,8 @@
 
     <ImageView
         android:id="@+id/image_rabbit"
-        android:layout_width="fill_parent"
+        android:layout_width="140dp"
         android:layout_height="72dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/ic_launcher"
         tools:srcCompat="@mipmap/ic_launcher" />
 
@@ -25,7 +23,5 @@
         android:paddingLeft="@dimen/padding_top_item_name"
         android:paddingTop="@dimen/padding_left_item_name"
         android:text="TextView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/image_rabbit"
-        app:layout_constraintTop_toTopOf="parent" />
+        />
 </LinearLayout>
