@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="between_img_and_text">8dp</dimen>
+    <dimen name="padding_top_item_name">5dp</dimen>
+    <dimen name="padding_left_item_name">5dp</dimen>
+</resources>
